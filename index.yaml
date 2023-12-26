@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  medilab:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-26T04:02:17.499241121Z"
+    description: A Helm chart for Kubernetes
+    digest: a051ce205ee7426c6ef11cbce87940720f51a1e9738a901a66033ea5097dc318
+    name: medilab
+    type: application
+    urls:
+    - https://rachanayr.github.io/yrr03medilab/medilab-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-26T04:02:17.498381843Z"
